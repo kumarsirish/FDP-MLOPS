@@ -1,0 +1,8 @@
+mlflow
+gradio
+python-dotenv
+torch
+torchvision
+matplotlib
+numpy
+Pillow
